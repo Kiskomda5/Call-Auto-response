@@ -1,0 +1,6 @@
+{
+  "name": "Call Auto-Response",
+  "description": "Auto-responder for incoming calls with custom SMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
